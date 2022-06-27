@@ -1,2 +1,2 @@
-# DAO
-Users will be able to vote to make important decisions in the project, which must have at least one of the cryptocurrencies in our ecosystem in staking.
+# M-DAO
+Users will be able to vote to make important decisions in the project, they will be able to vote, having MCent in staking.
